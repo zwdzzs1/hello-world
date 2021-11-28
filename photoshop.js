@@ -1,6 +1,6 @@
 /*
 解锁 Photoshop for iPad
-[rewrite_local]
+
 [mitm]
 Mitm = lcs-mobile-cops.adobe.io
 

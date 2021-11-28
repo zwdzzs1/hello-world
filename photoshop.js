@@ -1,6 +1,6 @@
 /*
 解锁 Photoshop for iPad
-
+[rewrite_local]
 ^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile\/nul\/v1$ url script-response-body photoshop.js
 [mitm]
 Mitm = lcs-mobile-cops.adobe.io
